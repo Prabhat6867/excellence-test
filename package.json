@@ -1,0 +1,14 @@
+{
+  "name": "prabhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
+}
